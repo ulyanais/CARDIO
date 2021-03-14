@@ -1,0 +1,84 @@
+
+            <TextBlock Text="Sign Up" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="100" Height="60" Foreground="White">
+            </TextBlock>
+
+<Button Content="Sign Up" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="100" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White"
+                    FontSize="18" Cursor="Hand" Opacity="100"/>
+
+ƒ≈À¿ﬁ  ÕŒœ” ” œ–Œ«–¿◊ÕŒ…
+
+Segoe UI ¯ËÙÚ
+
+<Button Content="Button" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="70" Height="35" Background="#5391FC" />
+
+
+<Grid Grid.Row="2" Grid.Column="1">
+                <Grid.RowDefinitions/>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <TextBlock Height="80" Text="Today's Schedule" Padding="20 20 0 0" FontSize="25" Foreground="White"/>
+                    <Image Height="417" Margin="-72,0,-74,0" Source="table-1.jpg" Stretch="Fill"/>
+                </StackPanel>
+            </Grid>
+
+
+
+
+
+
+
+
+
+
+
+            <StackPanel Grid.Row="2" Grid.RowSpan="1" Grid.ColumnSpan="3">
+                <Grid>
+                    <Grid.RowDefinitions/>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.4*"/>
+                        <ColumnDefinition Width="1.2*"/>
+                        <ColumnDefinition Width="0.07*"/>
+                        <ColumnDefinition Width="1.2*"/>
+                        <ColumnDefinition Width="0.07*"/>
+                        <ColumnDefinition Width="1.2*"/>
+                        <ColumnDefinition Width="0.4*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Viewbox HorizontalAlignment="Left" Stretch="Uniform" Grid.Column="1" >
+                        <Border Height="432" Width="553">
+                            <Border.Background>
+                                <ImageBrush ImageSource="table-1.jpg" Stretch="Uniform"/>
+                            </Border.Background>
+                            <StackPanel>
+                                <TextBlock Height="70" FontSize="25" FontWeight="Medium" Foreground="White" Padding="35 25 0 0">Today's Schedule</TextBlock>
+                                <Border Height="130" BorderBrush="White" BorderThickness="0 0 0 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 50 0 0">Early Exersize</TextBlock>
+                                        <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 50 0 0">8:30 - 10:00</TextBlock>
+                                    </StackPanel>
+                                </Border>
+                                <Border Height="110" BorderBrush="White" BorderThickness="0 0 0 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 40 0 0">Early Exersize</TextBlock>
+                                        <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 40 0 0">8:30 - 10:00</TextBlock>
+                                    </StackPanel>
+                                </Border>
+                                <Border Height="130" BorderBrush="White" BorderThickness="0 0 0 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 40 0 0">Early Exersize</TextBlock>
+                                        <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 40 0 0">8:30 - 10:00</TextBlock>
+                                    </StackPanel>
+                                </Border>
+                            </StackPanel>
+                        </Border>
+                    </Viewbox>
+                    <Image Source="table-2.jpg" Grid.Column="3" Stretch="Uniform"/>
+                    <Image Source="table-3.jpg" Grid.Column="5" Stretch="Uniform"/>
+                </Grid>
+            </StackPanel>

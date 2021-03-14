@@ -1,0 +1,462 @@
+﻿<Window x:Class="Cardio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cardio"
+        mc:Ignorable="d"
+        Title="Cardio" MinHeight="600" MinWidth="800" Height="4970" Width="1920">
+
+
+    <ScrollViewer>
+        <Grid >
+            <!--COLUMNS AND ROWS-->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="500"/>
+                <RowDefinition Height="400"/>
+                <RowDefinition Height="300"/>
+                <RowDefinition Height="400"/>
+                <RowDefinition Height="230"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="700"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="1000"/>
+                <RowDefinition Height="300"/>
+                <RowDefinition Height="600"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!--HEADER-->
+            <Image Grid.ColumnSpan="3" Grid.RowSpan="3" Source="header.jpg" Stretch="UniformToFill" Margin="0,-345,-27,206"/>
+
+            <!--LOGO-->
+            <Image Grid.Column="1" Grid.Row="0" Source="logo.png" HorizontalAlignment="Left" Width="55"/>
+            <!--BUTTONS-->
+            <Viewbox Stretch="Uniform" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Height="120">
+                    <!--BUTTON 1-->
+                    <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="120" Height="60" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="5" Margin="0 0 10 0">
+                        <Label Content="Intro" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Medium" Foreground="White">
+                        </Label>
+                    </Border>
+                    <!--BUTTON 2-->
+                    <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="120" Height="60" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="5" Margin="0 0 10 0">
+                        <Label Content="Services" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Medium" Foreground="White">
+                        </Label>
+                    </Border>
+                    <!--BUTTON 3-->
+                    <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="120" Height="60" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="5" Margin="0 0 10 0">
+                        <Label Content="Team" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Medium" Foreground="White">
+                        </Label>
+                    </Border>
+                    <!--BUTTON 4-->
+                    <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="120" Height="60" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="5" Margin="0 0 10 0">
+                        <Label Content="Pricing" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Medium" Foreground="White">
+                        </Label>
+                    </Border>
+                    <!--BUTTON 5-->
+                    <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="120" Height="60" Background="#00BFFF" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="4">
+                        <Label Content="Sign up" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Medium" Foreground="White">
+                        </Label>
+                    </Border>
+                </StackPanel>
+            </Viewbox>
+
+            <!--TEXT-->
+            <Viewbox  Grid.Row="1" Grid.Column="1">
+                <TextBlock LineHeight="50" Width="1200" MinWidth="700" TextAlignment="Center" Foreground="White"  TextWrapping="Wrap">
+                <Run FontSize="29">Take care of your body.</Run>
+                    <LineBreak/>
+                <Run FontSize="50" FontWeight="ExtraBold">It's the only place you have to live.</Run>
+                </TextBlock>
+            </Viewbox>
+
+            <!--SCHEDULE-->
+            <Viewbox  Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="2" Margin="10 0 10 0">
+                <StackPanel Orientation="Horizontal">
+                    <!--RED-->
+                    <Border Margin="0 0 15 0" Height="454" Width="595">
+                        <Border.Background>
+                            <ImageBrush ImageSource="table-1.jpg" Stretch="Uniform"/>
+                        </Border.Background>
+                        <StackPanel>
+                            <TextBlock Height="70" FontSize="25" FontWeight="Medium" Foreground="White" Padding="35 25 0 0">Today's Schedule</TextBlock>
+                            <Border Height="135" BorderBrush="White" BorderThickness="0 0 0 1">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 50 0 0">Early Exersize</TextBlock>
+                                    <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 50 0 0">8:30 - 10:00</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Border Height="120" BorderBrush="White" BorderThickness="0 0 0 1">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 40 0 0">Muscle Building</TextBlock>
+                                    <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 40 0 0">10:00 - 12:00</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Border Height="129" BorderBrush="White" BorderThickness="0 0 0 1">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Width="250" FontSize="26" FontWeight="Medium" Foreground="White" Margin="35 40 0 0">Cardio</TextBlock>
+                                    <TextBlock FontSize="25" FontWeight="Medium" Foreground="White" Margin="80 40 0 0">11:00 - 11:30</TextBlock>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <!--GREEN-->
+                    <Border Margin="15 0" Height="454" Width="595">
+                        <Border.Background>
+                            <ImageBrush ImageSource="table-2.jpg" Stretch="Uniform"/>
+                        </Border.Background>
+                        <StackPanel>
+                            <TextBlock Height="70" FontSize="25" FontWeight="Medium" Foreground="White" Padding="35 25 0 0">Premium Membership</TextBlock>
+                            <Border Height="200"/>
+                            <Border Height="130" BorderBrush="White">
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
+                                    <TextBlock Height="40" Width="220" FontSize="30" FontWeight="Medium" Foreground="White" Margin="35 0 0 0">Register Today</TextBlock>
+                                    <TextBlock FontSize="30" FontWeight="Medium" Foreground="White" Margin="35 0 0 0">20% Discount</TextBlock>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <!--BLUE-->
+                    <Border Margin="15 0 20 0" Height="454" Width="595">
+                        <Border.Background>
+                            <ImageBrush ImageSource="table-3.jpg" Stretch="Uniform"/>
+                        </Border.Background>
+                        <StackPanel>
+                            <TextBlock Height="70" FontSize="25" FontWeight="Medium" Foreground="White" Padding="35 25 0 0">Happy Clients</TextBlock>
+                            <Border Height="100"/>
+                            <Border Height="260" BorderBrush="White">
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
+                                    <TextBlock Height="90" Width="400" FontSize="30" FontWeight="Medium" Foreground="White" Margin="35 0 0 0" TextWrapping="Wrap">I couldn't be more happy with the results!</TextBlock>
+                                    <TextBlock FontSize="30" FontStyle="Italic" Foreground="White" Margin="35 90 0 0">Adam Jordan</TextBlock>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Viewbox>
+
+            <!--SERVICES-->
+            <Viewbox Grid.Row="3" Grid.Column="1">
+                <TextBlock LineHeight="50" Width="1200" MinWidth="700" TextAlignment="Center" Foreground="White" TextWrapping="Wrap">
+                <Run Foreground="#FF2B2828" FontSize="50" FontWeight="Bold">Services</Run>
+                    <LineBreak/>
+                <Run Foreground="Gray" FontSize="29">Achieve the best results with our wide variety of training options!</Run>
+                </TextBlock>
+            </Viewbox>
+
+            <!--THE DETAILS-->
+            <Viewbox HorizontalAlignment="Center" Stretch="Uniform" Grid.ColumnSpan="3" Grid.Row="4">
+                <StackPanel Orientation="Horizontal">
+                    <!--DETAIL 1-->
+                    <Border Margin="0 0 15 0" Height="432" Width="553" BorderBrush="Gray" BorderThickness="1 1 1 1">
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0 0 10">
+                            <Image Stretch="UniformToFill" Width="65" Height="65" Source="heart-blue.png" Cursor="Hand"/>
+                            <Label FontWeight="Medium" FontSize="40" Foreground="#FF6C5F5F" Margin="0 50 0 0" Cursor="Hand" >Cardio Training</Label>
+                        </StackPanel>
+                    </Border>
+                    <!--DETAIL 2-->
+                    <Border Margin="15 0" Height="432" Width="553" BorderBrush="Gray" BorderThickness="1 1 1 1">
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0 0 10">
+                            <Image Stretch="UniformToFill" Width="65" Height="65" Source="guru-blue.png" Cursor="Hand"/>
+                            <Label FontWeight="Medium" FontSize="40" Foreground="#FF6C5F5F" Margin="0 50 0 0" Cursor="Hand">Yoga Pilates</Label>
+                        </StackPanel>
+                    </Border>
+                    <!--DETAIL 3-->
+                    <Border Margin="15 0 0 0" Height="432" Width="553" BorderBrush="Gray" BorderThickness="1 1 1 1">
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0 0 10">
+                            <Image Stretch="UniformToFill" Width="65" Height="65" Source="weight-blue.png" Cursor="Hand"/>
+                            <Label FontWeight="Medium" FontSize="40" Foreground="#FF6C5F5F" Margin="0 50 0 0" Cursor="Hand">Power Training</Label>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Viewbox>
+
+
+            <!--DESIGNER-->
+            <Polygon Grid.ColumnSpan="3" Grid.Row="5" Points="1900 0 1900 200 10 200 " Fill="WhiteSmoke" 
+                     HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            </Polygon>
+
+            <!--TEAM-->
+            <StackPanel  Orientation="Vertical" Grid.Row="6" Grid.ColumnSpan="3" HorizontalAlignment="Center" Background="WhiteSmoke" Width="1920" Height="200"></StackPanel>
+
+            <Viewbox Grid.Row="6" Grid.Column="1" Stretch="Uniform">
+                <TextBlock LineHeight="50" Width="1200" MinWidth="700" TextAlignment="Center" Foreground="White" TextWrapping="Wrap">
+                <Run Foreground="#FF2B2828" FontSize="50" FontWeight="Bold">Team</Run>
+                    <LineBreak/>
+                <Run Foreground="Gray" FontSize="29">We're a dream team!</Run>
+                </TextBlock>
+            </Viewbox>
+
+
+            <!--TRAINERS-->
+            <StackPanel Background="WhiteSmoke" Width="1920" Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="7" Margin="0,0,-24.5,0" Grid.RowSpan="2"/>
+
+            <Viewbox HorizontalAlignment="Center" Stretch="Uniform" Grid.Column="0"  Grid.ColumnSpan="3" Grid.Row="7" Margin="10 0 10 0">
+                <StackPanel Orientation="Horizontal">
+                    <!--TRAINER 1-->
+                    <Border Margin="0 0 15 0" Height="800" Width="553" Background="White">
+                        <StackPanel>
+                            <Image Source="team-cover1.jpg" Stretch="Uniform" VerticalAlignment="Top"/>
+                            <Ellipse Width="200" Height="200" Margin="0,-100,0,0">
+                                <Ellipse.Fill>
+                                    <ImageBrush ImageSource="team1.jpg" Stretch="UniformToFill"/>
+                                </Ellipse.Fill>
+                            </Ellipse>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="35" Foreground="#FF2B2828"
+                                    FontWeight="Medium" Margin="0 50 0 0">Eva Williams
+                            </Label>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" Foreground="Gray"
+                                    FontWeight="Medium" Margin="0 0 0 40">Personal Trainer</Label>
+                            <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                    Width="230" Height="80" BorderBrush="#00a8ff" BorderThickness="2" Cursor="Hand"
+                                    CornerRadius="4" Margin="0 0 0 0">
+                                <Label Content="Sign Up Now" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="25" FontWeight="Medium" Foreground="#00BFFF">
+                                </Label>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <!--TRAINER 2-->
+                    <Border Margin="0 0 15 0" Height="800" Width="553" Background="White">
+                        <StackPanel>
+                            <Image Source="team-cover2.jpg" Stretch="Uniform" VerticalAlignment="Top"/>
+                            <Ellipse Width="200" Height="200" Margin="0,-100,0,0">
+                                <Ellipse.Fill>
+                                    <ImageBrush ImageSource="team3.jpg" Stretch="UniformToFill"/>
+                                </Ellipse.Fill>
+                            </Ellipse>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="35" Foreground="#FF2B2828"
+                                    FontWeight="Medium" Margin="0 50 0 0">Ben Adamson
+                            </Label>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" Foreground="Gray"
+                                    FontWeight="Medium" Margin="0 0 0 40">Fitness Instructor</Label>
+                            <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                    Width="230" Height="80" BorderBrush="#00a8ff" BorderThickness="2" Cursor="Hand"
+                                    CornerRadius="4" Margin="0 0 0 0">
+                                <Label Content="Sign Up Now" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="25" FontWeight="Medium" Foreground="#00BFFF">
+                                </Label>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <!--TRAINER 3-->
+                    <Border Margin="15 0 0 0" Height="800" Width="553" Background="White">
+                        <StackPanel>
+                            <Image Source="team-cover3.jpg" Stretch="Uniform" VerticalAlignment="Top"/>
+                            <Ellipse Width="200" Height="200" Margin="0,-100,0,0">
+                                <Ellipse.Fill>
+                                    <ImageBrush ImageSource="team2.jpg" Stretch="UniformToFill"/>
+                                </Ellipse.Fill>
+                            </Ellipse>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="35" Foreground="#FF2B2828"
+                                    FontWeight="Medium" Margin="0 50 0 0">John Phillips
+                            </Label>
+                            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" Foreground="Gray"
+                                    FontWeight="Medium" Margin="0 0 0 40">Personal Trainer</Label>
+                            <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                    Width="230" Height="80" BorderBrush="#00a8ff" BorderThickness="2" Cursor="Hand"
+                                    CornerRadius="4" Margin="0 0 0 0">
+                                <Label Content="Sign Up Now" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="25" FontWeight="Medium" Foreground="#00BFFF">
+                                </Label>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Viewbox>
+
+            <!--PRICING-->
+            <Image Grid.ColumnSpan="3" Grid.Row="9" Source="pricing1.jpg" Stretch="UniformToFill"/>
+            <Viewbox Grid.Row="9" Grid.Column="0" Grid.ColumnSpan="3" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Top" Height="1000">
+                <StackPanel Margin="0 50 10 0">
+                    <StackPanel Orientation="Horizontal" Height="150">
+                        <TextBlock LineHeight="50" Width="1500" MinWidth="700" TextAlignment="Center" Foreground="White" TextWrapping="Wrap">
+                <Run Foreground="White" FontSize="50" FontWeight="Bold">Pricing</Run>
+                    <LineBreak/>
+                <Run Foreground="White" FontSize="29">Choose your favorite pricing plan and sign up today!</Run>
+                        </TextBlock>
+                    </StackPanel>
+                    <!--BUTTONS PRICE-->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 0 100 0">
+                        <!--BUTTON PRICE 1-->
+                        <Border Background="#00BFFF" Height="270" Width="270">
+                            <StackPanel Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Center">
+                                <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" Foreground="White"
+                                    FontWeight="Medium" Margin="0 50 0 0">Yoga Pilates
+                                </Label>
+                                <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="26" Foreground="White"
+                                    FontWeight="Medium" Margin="0 0 0 40">$850.00 / year</Label>
+                                <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Width="180" Height="60" BorderBrush="White" BorderThickness="2" Cursor="Hand"
+                                        CornerRadius="4" Margin="0 0 0 0">
+                                    <Label Content="Sign Up Now" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="25" FontWeight="Medium" Foreground="White">
+                                    </Label>
+                                </Border>
+                            </StackPanel>
+                        </Border>
+                        <!--BUTTON PRICE 2-->
+                        <Border Background="#00BFFF" Height="270" Width="270">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+                                <Border Width="220">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Border Width="10" Height="10" Background="White" Margin="0 50 0 5">
+                                        </Border>
+                                        <Label Content="One Personal Trainer" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="15" FontWeight="Medium" Foreground="White" Margin="10 50 0 5">
+                                        </Label>
+                                    </StackPanel>
+                                </Border>
+                                <Border Width="220">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Border Width="10" Height="10" Background="White" Margin="0 5 0 5">
+                                        </Border>
+                                        <Label Content="Big gym space for training" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="15" FontWeight="Medium" Foreground="White" Margin="10 5 0 5">
+                                        </Label>
+                                    </StackPanel>
+                                </Border>
+                                <Border Width="220">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Border Width="10" Height="10" Background="White" Margin="0 5 0 5">
+                                        </Border>
+                                        <Label Content="Free tools and props" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="15" FontWeight="Medium" Foreground="White" Margin="10 5 0 5">
+                                        </Label>
+                                    </StackPanel>
+                                </Border>
+                                <Border Width="220">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Border Width="10" Height="10" Background="White" Margin="0 5 0 5">
+                                        </Border>
+                                        <Label Content="Free locker" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="15" FontWeight="Medium" Foreground="White" Margin="10 5 0 5">
+                                        </Label>
+                                    </StackPanel>
+                                </Border>
+                                <Border Width="220">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Border Width="10" Height="10" Background="White" Margin="0 5 0 5">
+                                        </Border>
+                                        <Label Content="Free before / after shower" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="15" FontWeight="Medium" Foreground="White" Margin="10 5 0 5">
+                                        </Label>
+                                    </StackPanel>
+                                </Border>
+                            </StackPanel>
+                        </Border>
+                    </StackPanel>
+                    <!--BUTTON PRICE 3-->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Margin="0 0 100 0">
+                        <Border Background="#FFC9C6C6" Height="270" Width="270">
+                            <StackPanel Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Center">
+                                <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" Foreground="White"
+                                    FontWeight="Medium" Margin="0 50 0 0">Cardio Training
+                                </Label>
+                                <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="26" Foreground="White"
+                                    FontWeight="Medium" Margin="0 0 0 40">$100.00 / year</Label>
+                                <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Width="180" Height="60" BorderBrush="White" BorderThickness="2" Cursor="Hand"
+                                        CornerRadius="4" Margin="0 0 0 0">
+                                    <Label Content="Sign Up Now" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       FontSize="25" FontWeight="Medium" Foreground="White">
+                                    </Label>
+                                </Border>
+                            </StackPanel>
+                        </Border>
+                    </StackPanel>
+                </StackPanel>
+            </Viewbox>
+
+            <!--TWITTER-->
+            <StackPanel  Orientation="Vertical" Grid.Row="10" Grid.ColumnSpan="3" HorizontalAlignment="Center" Background="#FF00A8FF" Width="1920" Height="300"></StackPanel>
+            <Image Source="/twitter.png" Stretch="Uniform" Width="100" Height="100" Grid.Row="10" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 10 0 0"/>
+            <Viewbox Grid.Row="10" Grid.Column="1" Stretch="Uniform">
+                <TextBlock LineHeight="20" Width="1700" MinWidth="700" TextAlignment="Center" Foreground="White" TextWrapping="Wrap">
+                <Run Foreground="White" FontSize="40">To enjoy the glow of good health, you must exercise.</Run>
+                    <LineBreak/>
+                <Run Foreground="#FF93EDFB" FontSize="40">#health #training #exercise</Run>
+                </TextBlock>
+            </Viewbox>
+
+            <!--END-->
+            <Image Grid.Row="11" Grid.Column="0" Grid.ColumnSpan="3" Source="footer.jpg" Stretch="UniformToFill"/>
+            <Viewbox Stretch="Uniform" Grid.Row="11" Grid.Column="1" HorizontalAlignment="Center" Height="600">
+                <StackPanel Orientation="Vertical">
+                    <!--TEXT-->
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="80" Width="600">
+                            <Border Width="350" Height="60" BorderBrush="{x:Null}" Cursor="Hand" Margin="0 0 10 0">
+                                <TextBlock TextAlignment="Left" Foreground="White" TextWrapping="Wrap">
+                <Run FontSize="20" FontWeight="Bold">Reserve a Free Trial Class!</Run>
+                    <LineBreak/>
+                <Run FontSize="10">Shape your body and improve your health.</Run>
+                                </TextBlock>
+                            </Border>
+                            <Border Width="200" Height="60" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="5" Margin="0 0 10 0">
+                                <TextBlock LineHeight="20" TextAlignment="Center" Foreground="White" TextWrapping="Wrap">
+                <Run FontSize="20" FontWeight="Bold">Opening Hours</Run>
+                    <LineBreak/>
+                                </TextBlock>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="80" Width="600">
+                            <Border HorizontalAlignment="Right" VerticalAlignment="Center" 
+                    Width="150" Height="45" Background="#00BFFF" BorderBrush="{x:Null}" Cursor="Hand"
+                    CornerRadius="4">
+                                <Label Content="Start Free Trial" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14" FontWeight="Medium" Foreground="White"></Label>
+                            </Border>
+                            <Border Width="115" Height="60" BorderBrush="{x:Null}" Cursor="Hand" Margin="180 0 10 0">
+                                <TextBlock LineHeight="20" TextAlignment="Left" TextWrapping="Wrap">
+                <Run FontSize="15" Foreground="Gray">Mon - Fri</Run>
+                    <LineBreak/>
+                <Run FontSize="20" Foreground="White">9:00 - 22:00</Run>
+                                </TextBlock>
+                            </Border>
+                            <Border Width="115" Height="60" BorderBrush="{x:Null}" Cursor="Hand" Margin="20 0 10 0">
+                                <TextBlock LineHeight="20" TextAlignment="Left" TextWrapping="Wrap">
+                <Run FontSize="15" Foreground="Gray" >Sat - Sun</Run>
+                    <LineBreak/>
+                <Run FontSize="20" Foreground="White" >10:00 - 18:00</Run>
+                                </TextBlock>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+                    <!--ALL RIGHTS RESERVED-->
+                    <Border>
+                        <StackPanel Orientation="Horizontal" Height="80" Width="700">
+                            <Border Width="400" Height="20" BorderBrush="{x:Null}" Cursor="Hand" Margin="0 0 10 0" VerticalAlignment="Bottom">
+                                <TextBlock LineHeight="20" TextAlignment="Left" Foreground="Gray" TextWrapping="Wrap">
+                <Run FontSize="12" FontWeight="Medium">© 2015 All Rights Reserved. Powered by PHIr exclusively for Codrops</Run>
+                    <LineBreak/>
+                                </TextBlock>
+                            </Border>
+                            <Border/>
+                            <Image Source="Снимок.PNG" Stretch="UniformToFill" Width="90" Height="24" Margin="190 0 0 0" VerticalAlignment="Bottom" Cursor="Hand"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Viewbox>
+        </Grid>
+    </ScrollViewer>
+</Window>

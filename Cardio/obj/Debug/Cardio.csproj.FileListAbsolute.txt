@@ -1,0 +1,164 @@
+C:\Users\пк\Desktop\Cardio\Cardio\bin\Debug\Cardio.exe.config
+C:\Users\пк\Desktop\Cardio\Cardio\bin\Debug\Cardio.exe
+C:\Users\пк\Desktop\Cardio\Cardio\bin\Debug\Cardio.pdb
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.g.resources
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.exe
+C:\Users\пк\Desktop\Cardio\Cardio\obj\Debug\Cardio.pdb
+E:\Cardio\Cardio\bin\Debug\Cardio.exe.config
+E:\Cardio\Cardio\bin\Debug\Cardio.exe
+E:\Cardio\Cardio\bin\Debug\Cardio.pdb
+E:\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+E:\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+E:\Cardio\Cardio\obj\Debug\App.g.cs
+E:\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+E:\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+E:\Cardio\Cardio\obj\Debug\MainWindow.baml
+E:\Cardio\Cardio\obj\Debug\Cardio.g.resources
+E:\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+E:\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+E:\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+E:\Cardio\Cardio\obj\Debug\Cardio.exe
+E:\Cardio\Cardio\obj\Debug\Cardio.pdb
+D:\bin\student\Belousova217\Cardio\Cardio\bin\Debug\Cardio.exe.config
+D:\bin\student\Belousova217\Cardio\Cardio\bin\Debug\Cardio.exe
+D:\bin\student\Belousova217\Cardio\Cardio\bin\Debug\Cardio.pdb
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\App.g.cs
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\MainWindow.baml
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.g.resources
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.exe
+D:\bin\student\Belousova217\Cardio\Cardio\obj\Debug\Cardio.pdb
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+C:\Users\пк\Desktop\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+E:\Карди не би\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+E:\Карди не би\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+E:\Карди не би\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+E:\Карди не би\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+D:\bin\student\Belousova217\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+D:\bin\student\Belousova217\карди нью v.2\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+C:\Users\пк\Desktop\карди нью v.3\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+D:\bin\student\Belousova217\карди нью v.4\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+C:\Users\пк\Desktop\карди нью v.5\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
+E:\CARDIO\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe.config
+E:\CARDIO\cardio new\Cardio\Cardio\bin\Debug\Cardio.exe
+E:\CARDIO\cardio new\Cardio\Cardio\bin\Debug\Cardio.pdb
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.csprojAssemblyReference.cache
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\MainWindow.g.cs
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\App.g.cs
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.cache
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio_MarkupCompile.lref
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\MainWindow.baml
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.g.resources
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.Properties.Resources.resources
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.GenerateResource.cache
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.csproj.CoreCompileInputs.cache
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.exe
+E:\CARDIO\cardio new\Cardio\Cardio\obj\Debug\Cardio.pdb
